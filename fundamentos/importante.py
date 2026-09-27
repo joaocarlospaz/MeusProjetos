@@ -204,4 +204,3 @@ com a utilização da expressão lambda,
  retorna somente os valores pares.
  função add(valor)
  podemos remover com remove(valor)"""
- 
