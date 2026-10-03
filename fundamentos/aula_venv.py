@@ -27,7 +27,7 @@
 # duas formas
 # pip install pyautogui
 # python -m pip install pyautogui -y
-# pra desinstalar o mesmo codigo, mas com unistall
+# pra desinstalar o mesmo codigo, mas com uninstall
 # pip freeze mostra tudo que já está instalado
 # pip index versions pyautogui -> aparece todas as versões do pyautogui
 # --upgrade para atualizar para ultima versão
