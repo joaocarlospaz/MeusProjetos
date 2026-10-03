@@ -48,7 +48,7 @@ for linha in tabela.index: #index, retorna os indices da tabela
     categoria = str(tabela.loc[linha, "categoria"])
     pyautogui.write(categoria)
     pyautogui.press("tab")
-    #preço
+    # preco_unitario
     preco = str(tabela.loc[linha, "preco_unitario"])
     pyautogui.write(preco)
     pyautogui.press("tab")
